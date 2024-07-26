@@ -15,12 +15,12 @@ subpage: # 开启“子页”功能，详见 README
   pages:
     - name: featTest # 文章的分类（category）名，如 developer
       path: feat # 若不设置则默认使用 name
-      title: 特性测试 # 菜单名，如 开发者
+      title: 技术博客 # 菜单名，如 开发者
       icon: /images/icon/icon-code.svg # 图标的路径
       description: 主题的功能测试 # 描述
     - name: baseTest # 文章的分类（category）名，如 developer
       path: base # 若不设置则默认使用 name
-      title: 基础测试 # 菜单名，如 开发者
+      title: 随笔 # 菜单名，如 开发者
       icon: /images/icon/icon-pi.svg # 图标的路径
       description: 基于 hexo 官方的基础测试 # 描述
 
@@ -41,13 +41,13 @@ index: # 配置首页个性化内容
 
 foot:
   title:
-    - "海内存知己"
-    - "天涯若比邻"
+    - "海阔凭鱼跃"
+    - "天高任鸟飞"
 
 links: # 朋友
   - name: "Theme Tranquility"
     url: https://github.com/hooozen/hexo-theme-tranquility
-  - name: "浩然的主页"
+  - name: "jyc的主页"
     url: https://hozen.site
 
 social:
